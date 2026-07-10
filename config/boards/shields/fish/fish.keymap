@@ -179,9 +179,9 @@
             >;
         };
 
-        layer_extra_3 {
+        layer_bios {
             bindings = <
-                        &none       &none       &none       &none               &none       &none       &none       &none       
+                        &none       &to 1       &none       &none               &none       &none       &none       &none       
 &none       &none       &none       &none       &none       &none               &none       &none       &none       &none       &none       &none       
             &none       &kp F2      &kp DEL     &kp F11                                     &none       &none       &none       &none       
                                                 &none       &none               &none       &none       
